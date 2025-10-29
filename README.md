@@ -1,8 +1,6 @@
 # Gender_detection
 Women_Safety_Analytics
 
-# Gender_detection
-women safety anlytics
 
 # 🛡️ Women Safety Analytics — Gender Detection Module
 
